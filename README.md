@@ -31,7 +31,7 @@ Customer churn is one of the biggest challenges in the telecom industry. This pr
 
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](Customer_Churn_Dashboard_Screenshot.png)
+![Customer Churn Dashboard](dashboard.png)
 
 The interactive Power BI dashboard includes:
 - **6 KPI Cards** — Total Customers, Churn Rate, Total Churned Customers, Monthly Revenue, Avg Tenure, Avg Revenue Per Customer
